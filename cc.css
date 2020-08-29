@@ -1,0 +1,19 @@
+.image-center{
+    text-align: center;
+}
+
+.nom{
+    text-align: center;
+    font-weight: 100;
+}
+
+.description{
+    text-align: center;
+    width: 160px;
+    border: 1px solid;
+}
+.image{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
